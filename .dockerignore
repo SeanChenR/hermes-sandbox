@@ -1,0 +1,4 @@
+# Keep the build context small — none of this needs to ship into the image.
+hermes-data/
+.git/
+*.md

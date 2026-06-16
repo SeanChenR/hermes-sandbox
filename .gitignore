@@ -1,0 +1,8 @@
+# Hermes runtime state (config, memory, skills, sessions) — may contain secrets
+/hermes-data/
+
+# Always-on supervisor log
+/keepalive.log
+
+# Local Claude Code settings (personal / machine-specific)
+.claude/settings.local.json
